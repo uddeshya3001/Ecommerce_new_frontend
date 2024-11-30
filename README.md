@@ -1,6 +1,3 @@
-Here’s a comprehensive `README.md` file for your e-commerce frontend project:
-
-```markdown
 # E-Commerce Frontend Project
 
 This is a responsive **E-Commerce Frontend** project built with **React.js**, using **HTML**, **CSS**, and **JavaScript**. The project demonstrates an elegant design, user-friendly interface, and core features of a functional e-commerce website. The application is deployed and accessible online.
@@ -110,27 +107,3 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## 🖼️ Screenshots
-
-### Home Page
-![Home Page Screenshot](https://via.placeholder.com/800x400)
-
-### Cart Page
-![Cart Page Screenshot](https://via.placeholder.com/800x400)
-
----
-
-## 🧑‍💻 Author
-
-- **Uddeysha**  
-  GitHub: [uddeshya3001](https://github.com/uddeshya3001)
-
----
-
-## 📞 Contact
-
-For any inquiries, feel free to reach out at: **uddeshya@example.com**
-
-```
